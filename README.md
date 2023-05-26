@@ -1,6 +1,7 @@
 # browserleaks.com - Lalicat Antidetect Browser Fingerprint Test
+[![browserleaks.com - Lalicat Antidetect Browser Fingerprint Test](https://res.cloudinary.com/marcomontalbano/image/upload/v1685080400/video_to_markdown/images/youtube--iGau5LfyWWY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=iGau5LfyWWY "browserleaks.com - Lalicat Antidetect Browser Fingerprint Test")
 
-BrowserLeaks is a website of online tools that can detect various information leaks on browsers and computers, including the following:
+[BrowserLeaks](https://www.youtube.com/watch?v=iGau5LfyWWY) is a website of online tools that can detect various information leaks on browsers and computers, including the following:
 
 IP Address: Display your current IP address and location information.
 Browser fingerprint: Display information such as browser version, operating system, screen resolution, installed plug-ins and fonts, which can be used to identify users.
